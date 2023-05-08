@@ -55,6 +55,10 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+<!-- ALL-REPO-ANALYTICS-BADGE:START - Do not remove or modify this section -->
+![Alt](https://repobeats.axiom.co/api/embed/25217c5f722a4fc244622e8e9d1b5be90333c1e9.svg "Repobeats analytics image")
+<!-- ALL-REPO-ANALYTICS-BADGE:START - Do not remove or modify this section -->
+
 Coders Headquarters (CodersHQ) is a social platform for developers to grow, network, challenge themselves, and gain points by contributing and helping others in this community. This platform was built by the community and for the community. The essence of CodersHq is to inspire everyone to learn to code, share knowledge and learn together.
 
 Currently the platform is at the alpha stage with a lot of the
